@@ -1,0 +1,4 @@
+Product ID,Product Name,Category,Price,Currency,Volume (m³),Gross Weight (g),Diameter (mm),Gross Volume (m³),Width (mm),Length (mm),Weight (g),Height (mm),Guaranteed Lifetime (days)
+P12345,Example Product A,Automotive,100,USD,0.5,1500,50,0.5,500,1000,1500,200,365
+P67890,Example Product B,Electronics,200,EUR,0.3,1200,40,0.3,400,900,1200,180,180
+P54321,Example Product C,Furniture,300,GBP,0.8,1800,70,0.8,600,1100,1800,220,730
